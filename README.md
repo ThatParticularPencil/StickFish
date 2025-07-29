@@ -44,4 +44,5 @@ The project is organized into several Java classes:
 Contributions are welcome! Please feel free to submit pull requests or open issues for any bugs or feature requests.
 
 ## License
-none lol
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
